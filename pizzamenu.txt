@@ -1,0 +1,32 @@
+Pizza menu
+
+1 Flat - Margarita: tomatsovs, ost, oregano.
+2 Mafioso - salat kebab: tomatsovs, ost, oregano, salat, kebab.
+3 Pita - peperoni: tomatsovs, ost, oregano, peperoni.
+4 Amerikaner - kødboller: tomatsovs, ost, oregano, kødboller.
+5 Putin - Skinke: tomatsovs, oregano, skinke.
+6 NATO - ananas: ananas tomatsovs, ost, oregano.
+7 Biden - Vegan: tomatsovs, ost, oregano, champignon, aubergine.
+8 Killary - salat kylling: tomatsovs, ost, oregano, salat, kylling.
+9 Pirate - Bacon: tomatsovs, ost, oregano, bacon.
+10 Gate - rejer: tomatsovs, ost, oregano, rejer.
+11 Freddy - laks: tomatsovs, ost, oregano, laks.
+12 Trump - ost: tomatsovs, ost, oregano, cheddah.
+13 Q - kødsovs: tomatsovs, ost, oregano, kødsovs.
+14 Dome - coctailpølser: tomatsovs, ost, oregano, cocktailpølser.
+15 Sklava - chilli: tomatsovs, ost, oregano, chilli, sucuk.
+16 Uranium - bacon,skinke: tomatsovs, ost, oregano, bacon, skinke.
+17 Loyol to familia - shawarma: tomatsovs, ost, oregano, hvidløg.
+18 Bandidos - bacon,skinke: tomatsovs, ost, oregano.
+19 Rus - kartofler: tomatsovs, ost, oregano, kartofler, kødsovs.
+20 USA - texmex: tomatsovs, ost, oregano, texmex, chilli, bacon, cocktailpølser.
+21 Fido - cocktailpølser,bacon: tomatsovs, ost, oregano,cocktailpølser. 
+22 JFK - ananas,rejer: tomatsovs, ost, oregano, ananas.
+23 NWO - kødsovs,pølser: tomatsovs, ost, oregano, kødsovs, pølser.
+24 False Flag - vegan2: tomatsovs, ost, oregano, champignon, salat. 
+25 Deep state - deeppizza: tomatsovs, ost, oregano, kødsovs.
+26 MK ultra - extrahot chilli: tomatsovs, ost, oregano, chilli.
+27 Rigged - spaghetti: tomatsovs, ost, oregano, spaghettisovs.
+28 GAS - kylling: tomatsovs, ost, oregano, kylling.
+29 Strøm - pepperoni, skinke: tomatsovs, ost, oregano, pepperoni, skinke.
+30 Energy - laks,rejer: tomatsovs, ost, oregano, laks, rejer, rucola.
